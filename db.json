@@ -1,0 +1,22 @@
+{
+  "groceryList": [
+    {
+      "id": "cecd",
+      "name": "Tomato",
+      "amount": 1,
+      "bought": false
+    },
+    {
+      "id": "9a05",
+      "name": "Cucumber",
+      "amount": 2,
+      "bought": true
+    },
+    {
+      "id": "11d1",
+      "name": "new",
+      "amount": 1,
+      "bought": false
+    }
+  ]
+}

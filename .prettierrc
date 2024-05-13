@@ -1,16 +1,5 @@
 {
-  "plugins": ["@trivago/prettier-plugin-sort-imports"],
-  "importOrder": [
-    "^@mui/(.*)$",
-    "^@/components(.*)$",
-    "^@/components/(.*)$",
-    "^@/icons/(.*)$",
-    "^@/enums/(.*)$",
-    "^@/templates/(.*)$",
-    "^@/services/(.*)$",
-    "^@/store/(.*)$",
-    "^[./]"
-  ],
+  "plugins": ["eslint-plugin-prettier"],
   "importOrderSeparation": true,
   "importOrderSortSpecifiers": true,
   "tabWidth": 2,
